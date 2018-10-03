@@ -9,8 +9,8 @@ B-tree implementation in golang based on algorithm by CLRS
 B-tree is a self-balancing tree data structure that maintains sorted data and allows searches, sequential access, insertions, and deletions in logarithmic time.
 
 References:  
-https://en.wikipedia.org/wiki/B-tree
-http://staff.ustc.edu.cn/~csli/graduate/algorithms/book6/chap19.htm
+https://en.wikipedia.org/wiki/B-tree  
+http://staff.ustc.edu.cn/~csli/graduate/algorithms/book6/chap19.htm  
 
 
 ## License
