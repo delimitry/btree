@@ -101,6 +101,9 @@ func Test2(t *testing.T) {
 
 	fmt.Println("--------------------------")
 
+	// Cases from "CLRS" (Cormen, Leiserson, Rivest, Stein)
+	// See Chapter 18.3 Deleting a key from a B-tree
+
 	btreeDelete(&btree, 21) // case 1
 	btreePrint(btree)
 
