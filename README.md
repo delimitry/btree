@@ -1,5 +1,6 @@
 # B-tree
 
+[![Build Status](https://travis-ci.org/delimitry/btree.svg?branch=master)](https://travis-ci.org/delimitry/btree)
 [![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/delimitry/btree/blob/master/LICENSE)
 
 B-tree implementation in golang based on algorithm by CLRS
